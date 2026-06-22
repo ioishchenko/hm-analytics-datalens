@@ -7,8 +7,12 @@
 **[Sales Overview →](https://datalens.yandex/k4dckd58qmhe3)**
 Общая картина продаж: ключевые метрики, динамика по месяцам с выделением сезонности, сравнение каналов продаж (online/offline).
 
+![Sales Overview](dashboards/sales_overview.png)
+
 **[Category & Customer Insights →](https://datalens.yandex/yitf41z6fadeh)**
 Разрез по категориям товаров и клиентам: топ категорий, разрыв между ассортиментом и спросом, демография покупателей.
+
+![Category & Customer Insights](dashboards/category_customer_insights.png)
 
 ## О данных
 
